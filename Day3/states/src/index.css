@@ -1,0 +1,33 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.main{
+  height:200px;
+  width:200px;
+  border:1px solid black;
+  display:flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  align-items:center;
+  margin-top: 100px;
+  margin-left: 500px;
+  justify-content:space-between 
+
+}
+.Add{
+  height:50px;
+  width:200px;
+  border:10 px solid black;
+}
+.Minus{
+  height:50px;
+  width:200px;
+  border:10 px solid black;
+}
+.Reload{
+  height:50px;
+  width:200px;
+  border:10 px solid black;
+}
